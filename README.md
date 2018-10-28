@@ -2,4 +2,5 @@
 Just My Stuff, 
 This repo doesn't contain node_modules.
 
-Use command "npm install --save express request body-parser" to install required dependencies.
+install node and use the command.
+"npm install --save express request body-parser" to get the required dependencies.
